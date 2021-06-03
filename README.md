@@ -6,13 +6,35 @@
 
 </br>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/nesterpnyi/nesterpnyi/blob/main/assets/f97396770799bed0db175abf47b6d943.gif">
-</div>
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/anime_play_game.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="https://steamcommunity.com/id/0xKolyanus">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+<a href="https://t.me/OxKolyanus">
+ <img align="left" width="130" hight="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+</a>
+</p>
+ 
 
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+
+*************
 <!--
 **Kolyanuss/Kolyanuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
