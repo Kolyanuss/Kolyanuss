@@ -1,5 +1,11 @@
 ### Hi there 👋
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/nesterpnyi/nesterpnyi/blob/main/assets/f97396770799bed0db175abf47b6d943.gif">
+</div>
 
+</br>
+</br>
+</br>
 <!--
 **Kolyanuss/Kolyanuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
