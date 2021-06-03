@@ -1,9 +1,8 @@
-### Hi Cyber people 👋
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/CyberGeralt%20(1).png">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/CyberGeralt%20(2).png">
-</div>
+<h2 align=center>Hi Cyber people 👋</h2>
+<p align=center>
+  <img height="800" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/CyberGeralt%20(1).png">
+  <img height="800" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/CyberGeralt%20(2).png">
+</p>
 
 </br>
 
