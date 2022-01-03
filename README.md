@@ -5,6 +5,11 @@
 </p>
 
 </br>
+## &#x1f4c8; GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolyanuss&hide=html,css,scss,ruby&theme=tokyonight&langs_count=7)
+![Kolyanuss GitHub stats](https://github-readme-stats.vercel.app/api?username=Kolyanuss&theme=tokyonight&show_icons=true)
+</br>
 
 # Contact Me :
 
