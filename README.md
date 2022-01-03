@@ -15,11 +15,7 @@
 # Contact Me :
 
 <p>
- </br>
-
-
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/anime_play_game.gif">
-
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
@@ -29,15 +25,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://t.me/OxKolyanus">
  <img align="left" width="130" hight="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
+
+</br></br>
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31cqbdz2mzdfjyscof54djkch4zi)
 </p>
  
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 
 *************
