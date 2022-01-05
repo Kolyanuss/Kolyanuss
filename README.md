@@ -15,7 +15,7 @@
 # Contact Me :
 
 <p>
-<img hight="270" width="360" align="right" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/anime_play_game.gif">
+<img width="340" align="right" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/anime_play_game.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
