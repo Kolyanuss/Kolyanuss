@@ -1,4 +1,4 @@
-<h2 align=center>Hi Cyber people 👋</h2>
+<h2 align=center>Hello 👋</h2>
 <p align=center>
   <img height="800" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/CyberGeralt%20(1).png">
   <img height="800" alt="GIF" src="https://github.com/Kolyanuss/Kolyanuss/blob/main/asset/CyberGeralt%20(2).png">
