@@ -19,9 +19,9 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="https://steamcommunity.com/id/0xKolyanus">
+<!-- <a href="https://steamcommunity.com/id/0xKolyanus">
   <img align="left" alt="Steam" width="130" hight="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
+</a>-->
 <a href="https://t.me/OxKolyanus">
  <img align="left" width="130" hight="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
